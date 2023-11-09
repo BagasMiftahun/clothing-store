@@ -31,7 +31,7 @@
                         </div>
                     </div>
                 </div>
-                <div class="single-hero-items set-bg" style="background-image:url('img/hero-3.jpg')">
+                <div class="single-hero-items set-bg" style="background-image:url('img/hero-4.jpg')">
                     <div class="container">
                         <div class="row">
                             <div class="col-lg-5">

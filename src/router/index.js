@@ -22,7 +22,8 @@ const routes = [
     component: () => import(/* webpackChunkName: "about" */ '../views/AboutView.vue')
   },
   {
-    path: '/product',
+    path: '/product/:id',
+    props: true,
     name: 'product',
     component: ProductView
   },

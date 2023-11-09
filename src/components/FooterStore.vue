@@ -10,9 +10,9 @@
                                 <a href="#"><img src="img/logo_website.png" alt="" /></a>
                             </div>
                             <ul>
-                                <li>Address: Setra Duta, Bandung</li>
+                                <li>Address: Tembalang , Semarang</li>
                                 <li>Phone: +628 22081996</li>
-                                <li>Email: hello.shayna@gmail.com</li>
+                                <li>Email: techarea@gmail.com</li>
                             </ul>
                             <div class="footer-social">
                                 <a href="#"><i class="fa fa-facebook"></i></a>
@@ -52,7 +52,7 @@
                         <div class="col-lg-12">
                             <div class="copyright-text">
                                 2022.Copyright &copy;
-                                All rights reserved | Shayna
+                                All rights reserved | Techarea
                             </div>
                         </div>
                     </div>
